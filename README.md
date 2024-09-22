@@ -61,17 +61,13 @@ A component that is displayed if the user navigates to a non-existent route.
 ## How to Run the Project
 
 1. Install all dependencies by running:
-
-   ```bash
-   npm install
-
    ```
-
+   npm install
+   ```
+   
 2. Start the local development server:
-
    ```
    npm start
-
    ```
-
+   
 3. Open [http://localhost:3000/](http://localhost:3000/) in your browser to navigate between the components.

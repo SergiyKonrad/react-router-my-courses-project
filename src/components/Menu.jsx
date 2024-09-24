@@ -11,7 +11,7 @@ const Menu = () => {
             ? /* --- the same as ---
          style={(props) => {
     const isActive = props.isActive;
-    return isActive ?*/
+    return isActive } ?*/
               { color: 'lightyellow', textDecoration: 'none' }
             : {}
         }
